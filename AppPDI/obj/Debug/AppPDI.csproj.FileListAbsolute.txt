@@ -1,0 +1,12 @@
+C:\Users\Bruno Brito\source\repos\AppPDI\AppPDI\bin\Debug\AppPDI.exe.config
+C:\Users\Bruno Brito\source\repos\AppPDI\AppPDI\bin\Debug\AppPDI.exe
+C:\Users\Bruno Brito\source\repos\AppPDI\AppPDI\bin\Debug\AppPDI.pdb
+C:\Users\Bruno Brito\source\repos\AppPDI\AppPDI\obj\Debug\AppPDI.csproj.AssemblyReference.cache
+C:\Users\Bruno Brito\source\repos\AppPDI\AppPDI\obj\Debug\AppPDI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bruno Brito\source\repos\AppPDI\AppPDI\obj\Debug\AppPDI.Properties.Resources.resources
+C:\Users\Bruno Brito\source\repos\AppPDI\AppPDI\obj\Debug\AppPDI.csproj.GenerateResource.cache
+C:\Users\Bruno Brito\source\repos\AppPDI\AppPDI\obj\Debug\AppPDI.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Brito\source\repos\AppPDI\AppPDI\obj\Debug\AppPDI.exe
+C:\Users\Bruno Brito\source\repos\AppPDI\AppPDI\obj\Debug\AppPDI.pdb
+C:\Users\Bruno Brito\source\repos\AppPDI\AppPDI\obj\Debug\AppPDI.MainForm.resources
+C:\Users\Bruno Brito\source\repos\AppPDI\AppPDI\obj\Debug\AppPDI.ImageSelectModal.resources
